@@ -15,7 +15,6 @@ namespace Moneybox.App.Features
             _notificationService = notificationService;
         }
 
-        //Refactored method to meet single responsibility principle as much as possible
         public void Execute(Guid fromAccountId, Guid toAccountId, decimal amount)
         {
             var fromAccount = _accountRepository.GetAccountById(fromAccountId);
