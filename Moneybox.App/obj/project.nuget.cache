@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/9V3g2agUcSmG+sLw2v1ERbU8KvWC8V37FDlrAcxqCC5O10SO+xveJlOIrlNEvQIXMYdDczZJgVb8lxije7UIg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Adam\\Documents\\Work\\dotnet-technical-task\\moneybox-withdrawal-master\\src\\Moneybox.App\\Moneybox.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Adam\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\Adam\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\Adam\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\Adam\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\Adam\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\Adam\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
